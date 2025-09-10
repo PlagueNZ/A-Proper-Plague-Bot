@@ -1,0 +1,16 @@
+{
+  "title": "A-Proper-Plague-Bot Documentation",
+  "description": "Legal documentation and terms for A-Proper-Plague-Bot Discord bot",
+  "author": "PlagueNZ",
+  "language": "en",
+  "root": "./docs",
+  "structure": {
+    "readme": "../README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": ["theme-default"],
+  "variables": {
+    "botName": "A-Proper-Plague-Bot",
+    "repositoryUrl": "https://github.com/PlagueNZ/A-Proper-Plague-Bot"
+  }
+}
